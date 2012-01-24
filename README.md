@@ -1,4 +1,4 @@
-[App for this question on stack overflow.](https://github.com/Bodacious/TestEnvExample)
+# [App for this question on stack overflow.](http://stackoverflow.com/questions/8990419/why-is-the-rack-env-hash-empty-in-rails-test-environment)
 
 In my Rails app, I'm accessing the env hash in one of my controller actions.
 
