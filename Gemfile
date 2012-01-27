@@ -8,6 +8,7 @@ gem 'rspec-rails'
 
 gem 'sqlite3'
 
+gem 'ny_address', git: 'git://gist.github.com/1672379.git'
 
 # Gems used only for assets and not required
 # in production environments by default.
